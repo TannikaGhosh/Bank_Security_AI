@@ -58,6 +58,10 @@ streamlit run dashboard.py
 |-----------|-------------|
 | ![Pie](images/pie_chart.png) | ![Trend](images/trend_line.png) |
 
+## 📈 GitHub Activity
+![Commits over time](images/github_commits.png)
+![File type distribution](images/file_types.png)
+
 ## 📈 Learning Outcomes
 - Applied ML to cybersecurity (intrusion detection + fraud prevention)
 - Built interactive dashboard with Streamlit
